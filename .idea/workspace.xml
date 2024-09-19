@@ -30,10 +30,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager">
-    <configuration name="poazda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="poezda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="poezda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +46,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poazda.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Сергей\PycharmProjects\poezda\poezda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.poazda" />
+        <item itemvalue="Python.poezda" />
       </list>
     </recent_temporary>
   </component>
@@ -74,29 +75,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="430" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1726772562231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1726772562231" />
     <state x="462" y="117" key="FileChooserDialogImpl" timestamp="1726691934586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1726691934586" />
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1726692018858">
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1726772786573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1726692018858" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1726692018858">
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1726772786573" />
+    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1726772786573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1726692018858" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1726692018858">
+    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1726772786573" />
+    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1726772786573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1726692018858" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1726692018858">
+    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1726772786573" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1726772786573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1726692018858" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1726691978203">
+    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1726772786573" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1726772778633">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1726691978203" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1726772778633" />
   </component>
 </project>
